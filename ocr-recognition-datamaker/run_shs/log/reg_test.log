@@ -1,0 +1,258 @@
+load corpus data over.....
+background image width:1019 and height:1453
+new font: /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf_21
+background image width:966 and height:1163
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf_16
+background image width:1033 and height:1491
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf_20
+background image width:1257 and height:1544
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf_20
+background image width:1131 and height:1529
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf_19
+background image width:1269 and height:1737
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf_29
+background image width:1223 and height:1711
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf_25
+background image width:1148 and height:1627
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf_22
+background image width:1143 and height:1644
+new font: /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf_24
+background image width:1234 and height:1611
+new font: /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf_19
+10/300
+cost time:0.80, mean time: 0.08, exp time:23.06
+background image width:1066 and height:1462
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf_28
+background image width:903 and height:1103
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf_18
+background image width:1269 and height:1562
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf_24
+background image width:926 and height:1339
+new font: /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf_22
+background image width:916 and height:1267
+new font: /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf_27
+background image width:1158 and height:1471
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf_28
+background image width:1154 and height:1626
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf_19
+background image width:993 and height:1320
+new font: /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf_28
+background image width:994 and height:1310
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf_22
+background image width:1004 and height:1267
+20/300
+cost time:1.41, mean time: 0.07, exp time:19.70
+background image width:1079 and height:1409
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf_17
+background image width:1224 and height:1469
+background image width:1183 and height:1566
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf_25
+new font: /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf_16
+new font: /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf_23
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf_29
+new font: /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf_18
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf_21
+30/300
+cost time:1.87, mean time: 0.06, exp time:16.86
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf_23
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf_18
+new font: /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf_21
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf_23
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf_16
+new font: /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf_28
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf_23
+40/300
+cost time:2.12, mean time: 0.05, exp time:13.77
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf_27
+new font: /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf_17
+new font: /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf_20
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf_26
+new font: /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf_22
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf_24
+50/300
+cost time:2.31, mean time: 0.05, exp time:11.53
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf_26
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf_19
+new font: /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf_23
+new font: /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf_30
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf_17
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf_17
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf_24
+60/300
+cost time:2.42, mean time: 0.04, exp time:9.70
+new font: /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf_24
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf_16
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf_30
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf_20
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf_26
+new font: /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf_29
+new font: /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf_20
+70/300
+cost time:2.56, mean time: 0.04, exp time:8.42
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf_26
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf_30
+new font: /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf_29
+80/300
+cost time:2.83, mean time: 0.04, exp time:7.78
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf_30
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf_17
+new font: /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf_18
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf_28
+new font: /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf_16
+90/300
+cost time:2.96, mean time: 0.03, exp time:6.90
+new font: /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf_30
+100/300
+cost time:3.13, mean time: 0.03, exp time:6.27
+new font: /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf_26
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf_30
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf_20
+new font: /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf_25
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf_27
+110/300
+cost time:3.27, mean time: 0.03, exp time:5.64
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf_21
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf_18
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf_22
+120/300
+cost time:3.47, mean time: 0.03, exp time:5.20
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf_21
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf_27
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf_29
+130/300
+cost time:3.56, mean time: 0.03, exp time:4.65
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf_16
+new font: /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf_17
+140/300
+cost time:3.79, mean time: 0.03, exp time:4.33
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf_21
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf_23
+150/300
+cost time:4.20, mean time: 0.03, exp time:4.20
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf_18
+160/300
+cost time:4.42, mean time: 0.03, exp time:3.86
+new font: /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf_26
+170/300
+cost time:4.66, mean time: 0.03, exp time:3.56
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Calibri-Bold-2.ttf_28
+180/300
+cost time:4.77, mean time: 0.03, exp time:3.18
+190/300
+cost time:4.91, mean time: 0.03, exp time:2.84
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf_25
+200/300
+cost time:5.08, mean time: 0.03, exp time:2.54
+new font: /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf /data_ssd/ocr/liweihao/wanli/fonts/SL-Swiss-Bold.ttf_19
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf_22
+210/300
+cost time:5.30, mean time: 0.03, exp time:2.27
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Regular-2.otf_19
+220/300
+cost time:5.43, mean time: 0.02, exp time:1.97
+230/300
+cost time:5.76, mean time: 0.03, exp time:1.75
+240/300
+cost time:5.91, mean time: 0.02, exp time:1.48
+new font: /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf /data_ssd/ocr/liweihao/wanli/fonts/Arial-Black-2.ttf_27
+250/300
+cost time:6.10, mean time: 0.02, exp time:1.22
+260/300
+cost time:6.34, mean time: 0.02, exp time:0.97
+270/300
+cost time:6.64, mean time: 0.02, exp time:0.74
+new font: /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf
+/data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf /data_ssd/ocr/liweihao/wanli/fonts/brbrobs0.ttf_25
+280/300
+cost time:6.78, mean time: 0.02, exp time:0.48
+290/300
+cost time:6.95, mean time: 0.02, exp time:0.24
+new font: /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf
+/data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf /data_ssd/ocr/liweihao/wanli/fonts/TimesNewerRoman-Bold-2.otf_24
+300/300
+cost time:7.11, mean time: 0.02, exp time:0.00

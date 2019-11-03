@@ -1,0 +1,38 @@
+min_bg_width: 700
+max_bg_width: 1100
+min_bg_height: 60
+max_bg_height: 100
+min_font_size: 16
+max_font_size: 30
+draw_form_line_ratio: 0.01
+draw_underline_ratio: 0.01
+draw_block_ratio: -1.0
+more_expend_ratio: 0.2
+cut_str_ratio: 0
+cut_min_len: 1
+cut_max_len: 10
+max_content_length: 100
+random_space: 0.3
+max_space_len: 2
+rand_small_font: 0.0
+draw_circle_ratio: 0.0
+corpus_base_dir: /data/caihua/scripts/ocr-recognition-datamaker/datas/corpus_output
+contents:
+  -
+    id: semantic
+    corpus_path: sementic_corpus_cn.txt
+    is_absolute_path: false
+    w: 0.8
+    max_line: 1
+#  -
+#    id: rand_cn
+#    corpus_path: rand_chinese.txt
+#    is_absolute_path: false
+#    w: 0.2
+#    max_line: 1
+#  -
+#    id: specific_words
+#    corpus_path: chinese_name_select.txt
+#    is_absolute_path: false
+#    w: 0.2
+#    max_line: 1
