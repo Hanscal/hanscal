@@ -1,13 +1,22 @@
+min_bg_width: 700
+max_bg_width: 800
+min_bg_height: 300
+max_bg_height: 500
 min_font_size: 23
 max_font_size: 30
+random_space: 0.3
+max_space_len: 2
 max_content_length: 15
 image_width: 224
 image_height: 224
+corpus_base_dir: /Volumes/work/build-tools/ocr-recognition-datamaker/run_shs/../datas/corpus_output
 contents:
   -
     id: news
-    corpus_path: /Users/caihua/projects/make_datasets/data/corpus/news.txt
+    corpus_path: rand_chinese.txt
+    is_absolute_path: false
     w: 1.0
+    max_line: 1
 seal_base:
   min_radius: 100
   max_radius: 110

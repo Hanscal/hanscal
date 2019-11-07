@@ -34,8 +34,8 @@ class SealBase(object):
 
         return result
 
-    def init_fonts(self, font_dir, font_chars_path=None):
-        self.font_gen = FontSelector(font_dir, self.config_path, font_chars_path)
+    def init_fonts(self, font_dir, font_chars_path):
+        self.font_gen = FontSelector(font_dir, font_chars_path, self.config_path)
 
     def get_circle_area(self, center, seal_name='seal_base', radius_suffix=''):
         r = random.randint(self.config[seal_name]['min_radius' + radius_suffix],
@@ -89,6 +89,7 @@ class SealBase(object):
         bg_img = drawer.get_empty_img(W, H, 0)
 
         color = self.get_color()
+        font_size = self.font_gen.get_font_size()
 
         center = (W // 2, H // 2)
         # draw cicle
@@ -107,7 +108,7 @@ class SealBase(object):
 
         # draw word
         text = self.content_generator.process()
-        font, font_path, font_size = self.font_gen.get_font(text)
+        font= self.font_gen.get_font_name_by_text(text)
         # min_r = star_radius + font_size / 2
         max_r = (circle_area[2] - circle_area[0])/2 - circle_width / 2
         word_r = max_r - font_size / 2 - 5

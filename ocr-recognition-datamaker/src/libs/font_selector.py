@@ -1,6 +1,6 @@
 # coding:utf-8
 
-from PIL import Image, ImageDraw
+from PIL import Image, ImageDraw, ImageFont
 import yaml
 import os, sys, random, math
 import json
@@ -22,6 +22,7 @@ class FontSelector(object):
         self.char_to_name_map = {}
         self.font_name_list = []
         self.load_font_chars(font_chars_path)
+        self.font_caches = {}
 
     def load_font_chars(self, font_chars_path):
         with open(font_chars_path, 'r', encoding='utf-8') as f:
@@ -83,7 +84,8 @@ class FontSelector(object):
         return font_name
 
     def get_font_path_by_name(self, font_name):
-        return os.path.join(self.font_dir, font_name)
+        font_path = os.path.join(self.font_dir, font_name)
+        return font_path
 
     def get_font_size(self, is_sp=False):
         if is_sp:
@@ -98,6 +100,14 @@ class FontSelector(object):
         for i in range(3):
             v = random.randint(mean_value - 10, mean_value + 10)
             v = min(255, max(v, 0))
+            c_list.append(v)
+        return tuple(c_list)
+
+    def get_seal_font_color(self):
+        rgb_range = [(200, 255), (0, 10), (0, 10)]
+        c_list = []
+        for i in range(3):
+            v = random.randint(rgb_range[0], rgb_range[1])
             c_list.append(v)
         return tuple(c_list)
 
@@ -133,3 +143,17 @@ class FontSelector(object):
 
     # def is_special_ch(self, ch):
     #     return self.sp_word_maps.has_key(ch)
+
+    def get_font(self, text=None, font_path=None, font_size=None):
+        if text is None:
+            text = ''
+        if font_path is None:
+            font_name = self.get_font_name_by_text(text)
+            font_path = self.get_font_path_by_name(font_name)
+        if font_size is None:
+            font_size = self.get_font_size()
+        hash_str = "{}_{}".format(font_path, font_size)
+        if hash_str in self.font_caches:
+            return self.font_caches[hash_str], font_path, font_size
+        self.font_caches[hash_str] = ImageFont.truetype(font_path, font_size)
+        return self.font_caches[hash_str], font_path, font_size

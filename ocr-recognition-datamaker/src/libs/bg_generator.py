@@ -34,8 +34,12 @@ class BgGenerator(object):
         return img_path_list
 
     def random_bg_size(self, max_w, max_h):
-        w = random.randint(self.config['min_bg_width'], min(max_w, self.config['max_bg_width']))
-        h = random.randint(self.config['min_bg_height'], min(max_h, self.config['max_bg_height']))
+        w = self.config['min_bg_width']
+        h = self.config['min_bg_height']
+        if self.config['min_bg_width'] < min(max_w, self.config['max_bg_width']):
+            w = random.randint(self.config['min_bg_width'], min(max_w, self.config['max_bg_width']))
+        if self.config['min_bg_height'] < min(max_h, self.config['max_bg_height']):
+            h = random.randint(self.config['min_bg_height'], min(max_h, self.config['max_bg_height']))
         return w, h
 
     def get_bg_img(self):

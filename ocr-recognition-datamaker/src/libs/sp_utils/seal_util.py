@@ -59,13 +59,17 @@ def decorate_word_img(img, color):
             img.putpixel((i, j), (r, g, b, a))
 
 def get_word_img(text, font, font_color, is_decorate=True):
-    img_t = Image.new('RGBA', (1, 1))
-    draw_t = ImageDraw.Draw(img_t)
-    w, h = draw_t.textsize(text, font=font)
-
-    img = Image.new('RGBA', (w, h), (0, 0, 0, 0))
+    img = Image.new('RGBA', (1, 1))
     draw = ImageDraw.Draw(img)
-    draw.text((0,0), text, font=font, fill=font_color)
+    try:
+        w, h = draw.textsize(text, font=font)
+        img = Image.new('RGBA', (w, h), (0, 0, 0, 0))
+        draw = ImageDraw.Draw(img)
+        draw.text((0, 0), text, font=font, fill=font_color)
+    except Exception as e:
+        print('text, size, color', text, font, font_color)
+        print('get text img error', e)
+        os._exit(-1)
     if is_decorate:
         decorate_word_img(img, font_color)
     return img
