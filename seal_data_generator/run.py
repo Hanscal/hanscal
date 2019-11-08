@@ -42,7 +42,7 @@ def run(options):
         text_img_list = nois_gen.process()
         # for text_img in text_img_list:
         #     drawer.random_paste(bg_img, text_img)
-        drawer.random_paste(bg_img, seal_img)
+        bg_img, seal_img = drawer.random_paste(bg_img, seal_img)
         save_name = '{}_{}'.format(options.pre_fix, count)
         save_data(options.output_dir, save_name, bg_img, text, label_writer)
         count += 1
@@ -62,9 +62,9 @@ def get_options(args=None):
 
     opt_parser = optparse.OptionParser()
     opt_parser.add_option('--config', type=str,
-                          default='/Volumes/work/personal/hanscal/ocr-recognition-datamaker/src/config/seal_config.yaml',
+                          default='/Volumes/work/github/ocr-recognition-datamaker/src/config/seal_config.yaml',
                           help='define the content config file')
-    opt_parser.add_option('--nois_config', type=str, default='/Volumes/work/personal/hanscal/ocr-recognition-datamaker/src/config/seal_config.yaml',
+    opt_parser.add_option('--nois_config', type=str, default='/Volumes/work/github/ocr-recognition-datamaker/src/config/seal_config.yaml',
                           help='define the content config file')
     opt_parser.add_option('--bg_dir', type=str, default='./testdata/bgs',
                           help='define the background dir')
@@ -72,9 +72,9 @@ def get_options(args=None):
                           help='define the fonts dir')
     opt_parser.add_option('--font_chars', type=str, default='/Volumes/work/build-tools/all_fonts/pt_fonts_char.json',
                           help='define the fonts have chars')
-    opt_parser.add_option('--gen_number', type=int, default=100, help='define the generate number')
+    opt_parser.add_option('--gen_number', type=int, default=10, help='define the generate number')
     opt_parser.add_option('--output_dir', type=str, default='./testdata/', help='define the output dir')
-    opt_parser.add_option('--pre_fix', type=str, default='p', help='define the output file prefix str')
+    opt_parser.add_option('--pre_fix', type=str, default='b', help='define the output file prefix str')
 
     (options, args) = opt_parser.parse_args(args=args)
     return options

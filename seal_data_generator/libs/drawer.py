@@ -3,6 +3,7 @@
 import os
 import math
 import random
+import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
 def get_empty_img(w, h, alpha):
@@ -79,4 +80,13 @@ def draw_circle_word(word_text, img, center, radius, font, color, interval_angle
 def random_paste(bg_img, target_img):
     W, H = bg_img.size
     w, h = target_img.size
+    if W < w:
+        bg_img = bg_img.resize((w+10,H))
+        W = w+10
+    if H < h:
+        bg_img = bg_img.resize((W, h+10))
+        H = h+10
+    # bg_img = Image.new(mode='RGBA',size=(500,500),color=0)
     bg_img.paste(target_img, (random.randint(0, W - w), random.randint(0, H - h)), mask=target_img)
+    bg_img.show()
+    return bg_img, target_img
