@@ -1,0 +1,9 @@
+min_font_size: 15
+max_font_size: 20
+max_content_length: 10
+max_gen_number: 3
+contents:
+  -
+    id: news
+    corpus_path: /Users/qianhuan/Desktop/projects/make_datasets/data/corpus/news.txt
+    w: 1.0

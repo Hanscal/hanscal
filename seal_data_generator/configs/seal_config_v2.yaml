@@ -1,0 +1,41 @@
+min_font_size: 23
+max_font_size: 30
+max_content_length: 15
+image_width: 224
+image_height: 224
+contents:
+  -
+    id: company
+    corpus_path: /Users/qianhuan/Desktop/projects/make_datasets/data/corpus/company.txt
+    w: 1.0
+seal_base:
+  min_radius: 100
+  max_radius: 110
+  min_circle_width: 4
+  max_circle_width: 9
+  min_star_radius: 20
+  max_star_radius: 35
+  draw_star_ratio: 0.5
+  min_interval_angle: 18
+  max_interval_angle: 22
+seal_double_circle:
+  max_content_length: 12
+  max_font_size: 25
+  max_eng_font_size: 18
+  min_radius: 108
+  max_radius: 110
+  min_radius2: 80
+  max_radius2: 88
+  min_circle_width: 4
+  max_circle_width: 8
+  min_star_radius: 15
+  max_star_radius: 30
+  draw_star_ratio: 0.5
+  min_interval_angle: 22
+  max_interval_angle: 25
+  min_eng_interval_angle: 5
+  max_eng_interval_angle: 10
+  max_english_word_num: 8
+  max_english_char_num: 5
+
+

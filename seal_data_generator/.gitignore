@@ -1,0 +1,7 @@
+.idea/
+*.pyc
+testdata/
+fonts/
+bg_imgs/
+output/
+
